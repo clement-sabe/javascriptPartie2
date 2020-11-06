@@ -1,4 +1,4 @@
-document.getElementById("input").onkeypress = recupValeur;
+document.getElementById("input").onkeyup = recupValeur;
 
 function recupValeur() {
     var text = document.getElementById("input").value;

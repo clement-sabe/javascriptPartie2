@@ -82,7 +82,7 @@ p{
     display: block;
   }
 }
-.blocTotal.scroll{
+.blocTotal.blocAppear{
   visibility: visible;
  
     animation-duration: 3s;
